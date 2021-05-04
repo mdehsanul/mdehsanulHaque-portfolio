@@ -23,8 +23,6 @@ body {
 @media (max-width: 700px) {
   /* For mobile phones: */
   .icon-design .nav-icon-list {
-    /* margin-top: 10px;
-    display: inline-flex; */
     display: none;
   }
   .nav-follow-me {
@@ -279,6 +277,9 @@ body {
 .card-button {
   width: 135px;
 }
+.git-buttons {
+  width: 132px;
+}
 /* fourth section end */
 /* fifth section start */
 .card-for-all {
@@ -333,6 +334,3 @@ body {
 /* eighth section start */
 /* eighth section end */
 /* footer */
-.footer-resume {
-  margin-top: 178px;
-}

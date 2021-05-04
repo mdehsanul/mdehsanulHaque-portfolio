@@ -130,7 +130,7 @@ body {
   width: 240px;
   height: 45px;
   line-height: 40px;
-  font-size: 18px;
+  font-size: 17px;
   font-family: sans-serif;
   text-decoration: none;
   color: #333;
@@ -159,6 +159,15 @@ body {
 }
 .resume-button:hover:after {
   width: 100%;
+}
+.hire-me-button {
+  width: 140px;
+}
+@media (max-width: 700px) {
+  .resume-button,
+  .hire-me-button {
+    font-family: "Josefin Sans", sans-serif;
+  }
 }
 /* button end */
 /* first section end */
@@ -317,13 +326,11 @@ body {
   }
 }
 /* fifth section end */
-/* sixth section start */
-/* sixth section end */
-/* seventh section start*/
+/* eighth section start */
 /* .sixth-section {
   background-image: url("/image/vector.jpg");
   background-position: left;
   background-repeat: no-repeat;
   background-size: 500px;
 } */
-/* seventh section end*/
+/* eighth section end */

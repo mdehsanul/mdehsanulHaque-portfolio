@@ -177,7 +177,9 @@ body {
 .fourth-section,
 .fifth-section,
 .sixth-section,
-.seventh-section {
+.seventh-section,
+.eighth-section,
+.ninth-section {
   margin-top: 150px;
 }
 /* second section end */
@@ -197,8 +199,8 @@ body {
   background: #f7f7f7;
 }
 #cards_landscape_wrap-2 .container {
-  padding-top: 80px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 #cards_landscape_wrap-2 a {
   text-decoration: none;
@@ -326,11 +328,11 @@ body {
   }
 }
 /* fifth section end */
+/* sixth section start */
+/* sixth section end */
 /* eighth section start */
-/* .sixth-section {
-  background-image: url("/image/vector.jpg");
-  background-position: left;
-  background-repeat: no-repeat;
-  background-size: 500px;
-} */
 /* eighth section end */
+/* footer */
+.footer-resume {
+  margin-top: 178px;
+}
